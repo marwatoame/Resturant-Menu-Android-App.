@@ -1,5 +1,6 @@
 # Resturant-Menu-Android-App.
 This project is to create a simple resturant menu. 
 
+![image](https://user-images.githubusercontent.com/76160830/204129891-ffdc484e-ac29-4586-8fa7-93ab80b83b3a.png) ![image](https://user-images.githubusercontent.com/76160830/204129902-955279ac-be31-4446-9099-660813318b69.png)
 
-![image](https://user-images.githubusercontent.com/76160830/204129845-de0778af-7353-4c01-be97-2dd729b205ef.png) ![image](https://user images.githubusercontent.com/76160830/204129853-d81c8142-f4fa-4cb6-b598-fdf899290783.png)
+
